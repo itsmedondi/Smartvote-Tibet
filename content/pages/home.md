@@ -7,8 +7,11 @@ subtitle: >-
   Smartvote Tibet is an user-friendly application, helping the Tibetan voters to
   make an informed decision on election day.
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: >-
+    Smartvote Tibet is an user-friendly application, helping the Tibetan voters
+    to make an informed decision on election day.
+  noindex: false
+  title: Smartvote Tibet | Submit your questions
 ---
 # How does Smartvote Tibet work? 
 
