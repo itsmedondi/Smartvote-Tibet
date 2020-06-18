@@ -22,7 +22,7 @@ meta:
 
 ## Submit your questions for the elections 2021
 
-[![Open form]()](https://google.ch)
+[![Open form]()](https://docs.google.com/forms/d/1cO41xpWCg7u9R9VMn2P2FBLHjmeiJFPTnKrfBo157l0/edit)
 
 
 ## Newsletter
