@@ -22,4 +22,4 @@ meta:
 
 ## Submit your questions for the elections 2021
 
-[![Open form](https://www.netlify.com/img/deploy/button.svg)](https://google.ch)
+[![Open form]()](https://google.ch)
