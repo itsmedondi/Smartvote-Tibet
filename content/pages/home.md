@@ -23,3 +23,11 @@ meta:
 ## Submit your questions for the elections 2021
 
 [![Open form]()](https://google.ch)
+
+
+## Newsletter
+
+Option to sign up to get updates on the project and to receive the final questionnaire
+
+## About the project
+Smartvote Tibet is an initiative of “Project Democracy”, an association by a group of Tibetans who have a background in political science, history, psychology, technology and human rights law. The platform is an adapted version of Smartvote, which was first developed in 2003 by Politools in Switzerland. The tool has been successfully implemented for regional and national elections in Switzerland, Australia and Luxembourg, Austria, Scotland as well as in the European Union.
