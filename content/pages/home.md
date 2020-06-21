@@ -20,14 +20,16 @@ meta:
 3. Users (Voters) answer the same questions on the smartvote Tibet website.
 4. Users receive a ranked list of candidates for Sikyong and Parliament that best match their political profile
 
+Infographic here
+
 ## Submit your questions for the elections 2021
 
-[![Open form]()](https://docs.google.com/forms/d/1cO41xpWCg7u9R9VMn2P2FBLHjmeiJFPTnKrfBo157l0/edit)
-
+[![Open form](<>)](https://docs.google.com/forms/d/1cO41xpWCg7u9R9VMn2P2FBLHjmeiJFPTnKrfBo157l0/edit)
 
 ## Newsletter
 
 Option to sign up to get updates on the project and to receive the final questionnaire
 
 ## About the project
+
 Smartvote Tibet is an initiative of “Project Democracy”, an association by a group of Tibetans who have a background in political science, history, psychology, technology and human rights law. The platform is an adapted version of Smartvote, which was first developed in 2003 by Politools in Switzerland. The tool has been successfully implemented for regional and national elections in Switzerland, Australia and Luxembourg, Austria, Scotland as well as in the European Union.
