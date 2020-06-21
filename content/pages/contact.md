@@ -7,7 +7,10 @@ subtitle: This is the contact page subtitle.
 address: Tibet
 phone: '-'
 email: '-'
-locations: []
+locations:
+  - lat: '-27.9654732'
+    lng: '153.2432449'
+    mapLink: ''
 meta:
   description: This is a meta description.
   title: Contact Page
