@@ -1,11 +1,11 @@
 ---
 template: HomePage
 slug: ''
-title: Smartvote Tibet
+title: རྣམ་དཔྱོད་ལྡན་པའི་བོད་མིའི་འོས་
 featuredImage: 'https://ucarecdn.com/ee4550c0-a7b4-4941-85c0-a1a243515baf/'
 subtitle: >-
-  Smartvote Tibet is an user-friendly application, helping the Tibetan voters to
-  make an informed decision on election day.
+  རྣམ་དཔྱོད་ལྡན་པའི་བོད་མིའི་འོས་ནི་
+  བོད་མི་འོས་འཕེན་མཁན་རྣམས་ཀྱིས་འོས་བསྡུའི་ཉིན་མོར་གནས་ཚུལ་རྟོགས་པའི་ཐོག་འོས་འདེམས་བྱ་ཆེད་མཐུན་འགྱུར་བྱེད་མཁན་གྱི་སྤྱོད་བསླ་བའི་འཕྲུལ་ཆས་ཞིག་ཡིན།
 meta:
   description: >-
     Smartvote Tibet is an user-friendly application, helping the Tibetan voters
@@ -13,12 +13,17 @@ meta:
   noindex: false
   title: Smartvote Tibet | Submit your questions
 ---
-# How does Smartvote Tibet work?
+# རྣམ་དཔྱོད་ལྡན་པའི་བོད་མིའི་འོས་གང་འདྲ་སྒྲུབ་ཐུབ།
 
-1. Public participate in development of questions.
-2. Candidates for Sikyong and Parliament answer selected 30 questions
-3. Users (Voters) answer the same questions on the smartvote Tibet website.
-4. Users receive a ranked list of candidates for Sikyong and Parliament that best match their political profile
+༡་ མི་དམངས་གིས་དྲི་བ་འདྲི་ནས་མཉམ་ཞུགས་བྱ།
+
+༢་ དེ་ནས་སྲིད་སྐྱོང་དང་སྤྱི་མཐུས་འོས་མི་རྣམས་ཀྱིས་དྲི་བ་ ༣༠ ལན་གདབ།
+
+༣་ བཀོལབདག་ (འོས་ཤོག་བླུགས་མཁན་) རྣམས་ཀྱིས་དྲ་ལྗོངས་འདིའི་ནང་དྲི་བ་དེ་དག་གཅིག་པར་ལན་གདབ།
+
+༤་ བཀོལ་བདག་རྣམས་ཀྱི་ཆབ་སྲིད་བསམ་ཕྱོགས་དང་ཇི་མཐུན་སྲིད་སྐྱོང་ངམ་སྤྱི་མཐུས་འོས་མི་གོ་རིམ་བཞིན་ངོ་སྤྲོད་བྱུང་ཐུབ།
+
+
 
 Infographic here
 
@@ -32,4 +37,4 @@ Option to sign up to get updates on the project and to receive the final questio
 
 ## About the project
 
-Smartvote Tibet is an initiative of “Project Democracy”, an association by a group of Tibetans who have a background in political science, history, psychology, technology and human rights law. The platform is an adapted version of Smartvote, which was first developed in 2003 by Politools in Switzerland. The tool has been successfully implemented for regional and national elections in Switzerland, Australia and Luxembourg, Austria, Scotland as well as in the European Union.
+རྣམ་དཔྱོད་ལྡན་པའི་བོད་མིའི་འོས་ཞེས་པ་ནི་༼དམངས་གཙོའི་ལས་འཆར་༽གྱིས་སྣེ་ཁྲིད་བྱས་པ་ཞིག་ཡིན་པ་དང་། ཚོགས་པ་འདི་ནི་ཆབ་སྲིད་ཚན་རིག་དང་། ལོ་རྒྱུས། སེམས་ཁམས་རིག་པ། གློག་ཀླད་འཕྲུལ་ཆས། འགྲོ་བ་མིའི་ཐོབ་ཐང་སོགས་ཤེས་ཡོན་གྱི་རྒྱབ་ལྗོངས་ཕུན་སུམ་ཚོགས་པོ་དང་ལྡན་པའི་ཤེས་ལྡན་བོད་མིའི་མཉམ་ཞུགས་ཀྱི་སྣེ་ཁྲིད་བྱས་པའི་ལས་གཞི་ཞིག་རེད། རྣམ་དཔྱོད་ལྡན་པའི་འོས་ཞེས་པའི་སྡིངས་ཆ་འདི་ཐོག་མར་སུད་སི་པོ་ལི་ཀྲུལས་བཟོ་ལས་ཁང་གིས་ ༢༠༠༣ ནང་གསར་སྐྲུན་གནང་ཚརཡོད་པ་། དེ་ལས་ང་ཚོས་སྤྱོད་བཞིན་པའི་མིང་འདི་དཔེར་ལེན་པ་ཞིག་ཡིན། དེ་བཞིན་ས་གནས་དང་རྒྱལ་ཁབ་ཀྱི་འོས་ཤོག་ཐབས་ལམ་མ་ལག་སུད་སི་དང་། ཨོས་ཀྲི་ལི་ཡ། ལུཀ་ཙམ་བཀ།ཨོས་ཀྲི་ཡ། སི་ཀོཌ་ལེཌ། དེ་བཞིན་ཡུ་རོབ་མཉམ་འབྲེལ་ལ་སོགས་པས་ཀྱང་ལག་བསྟར་བྱས་ཏེ་ལེགས་གྲུབ་ཆེན་པོ་བྱུང་ཡོད།
