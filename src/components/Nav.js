@@ -50,7 +50,7 @@ export class Navigation extends Component {
           </Link>
           <div className="Nav--Links">
             <NavLink to="/">Smartvote Tibet</NavLink>
-            <NavLink to="/contact/">Contact</NavLink>
+            <NavLink to="/Tibetan/">བོད་ཡིག</NavLink>
           </div>
           <button
             className="Button-blank Nav--MenuButton"
