@@ -26,6 +26,7 @@
   background: rgba(0, 194, 189, 0.6);
 }
 
+
 html {
   box-sizing: border-box;
   font-size: 62.5%;
@@ -41,7 +42,6 @@ body {
   color: var(--secondary);
   font-size: 1.6em;
   font-weight: 400;
-  letter-spacing: 0.01em;
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
 }
