@@ -49,8 +49,8 @@ export class Navigation extends Component {
             <Logo />
           </Link>
           <div className="Nav--Links">
-            <NavLink to="/">Smartvote Tibet</NavLink>
-            <NavLink to="/Tibetan/">བོད་ཡིག</NavLink>
+            <NavLink to="/">རྣམ་དཔྱོད་ལྡན་པའི་བོད་མིའི་འོས་</NavLink>
+            <NavLink to="/english/">Smartvote Tibet</NavLink>
           </div>
           <button
             className="Button-blank Nav--MenuButton"
