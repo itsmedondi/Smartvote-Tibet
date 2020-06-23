@@ -28,8 +28,6 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
         <h2>༢༠༢༡ ལོའི་འོས་བསྡུའི་ཆེད་དུ་དྲི་བ་ཐོ་བཀོད་གནང་རོགས།</h2>
         <p>“This is a serious and timely initiative. When it comes to our exile democracy, we are continually growing and learning. <em>Smartvote</em> is a brilliant tool and we hope Tibetans to make use of this technology”</p>
         <h2><a target="_blank" class="Button" href="https://docs.google.com/forms/d/1cO41xpWCg7u9R9VMn2P2FBLHjmeiJFPTnKrfBo157l0/edit">Open form</a></h2>
-        <h2>Newsletter</h2>
-        <p>Option to sign up to get updates on the project and to receive the final questionnaire</p>
         <h2>ལས་འཚར་གྱི་སྐོར།</h2>
         <p>རྣམ་དཔྱོད་ལྡན་པའི་བོད་མིའི་འོས་ཞེས་པ་ནི་༼དམངས་གཙོའི་ལས་འཆར་༽གྱིས་སྣེ་ཁྲིད་བྱས་པ་ཞིག་ཡིན་པ་དང་། ཚོགས་པ་འདི་ནི་ཆབ་སྲིད་ཚན་རིག་དང་། ལོ་རྒྱུས། སེམས་ཁམས་རིག་པ། གློག་ཀླད་འཕྲུལ་ཆས། འགྲོ་བ་མིའི་ཐོབ་ཐང་སོགས་ཤེས་ཡོན་གྱི་རྒྱབ་ལྗོངས་ཕུན་སུམ་ཚོགས་པོ་དང་ལྡན་པའི་ཤེས་ལྡན་བོད་མིའི་མཉམ་ཞུགས་ཀྱི་སྣེ་ཁྲིད་བྱས་པའི་ལས་གཞི་ཞིག་རེད། རྣམ་དཔྱོད་ལྡན་པའི་འོས་ཞེས་པའི་སྡིངས་ཆ་འདི་ཐོག་མར་སུད་སི་པོ་ལི་ཀྲུལས་བཟོ་ལས་ཁང་གིས་ ༢༠༠༣ ནང་གསར་སྐྲུན་གནང་ཚརཡོད་པ་། དེ་ལས་ང་ཚོས་སྤྱོད་བཞིན་པའི་མིང་འདི་དཔེར་ལེན་པ་ཞིག་ཡིན། དེ་བཞིན་ས་གནས་དང་རྒྱལ་ཁབ་ཀྱི་འོས་ཤོག་ཐབས་ལམ་མ་ལག་སུད་སི་དང་། ཨོས་ཀྲི་ལི་ཡ། ལུཀ་ཙམ་བཀ།ཨོས་ཀྲི་ཡ། སི་ཀོཌ་ལེཌ། དེ་བཞིན་ཡུ་རོབ་མཉམ་འབྲེལ་ལ་སོགས་པས་ཀྱང་ལག་བསྟར་བྱས་ཏེ་ལེགས་གྲུབ་ཆེན་པོ་བྱུང་ཡོད།</p></div>
 
