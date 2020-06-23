@@ -23,13 +23,13 @@ meta:
 
 ༤་ བཀོལ་བདག་རྣམས་ཀྱི་ཆབ་སྲིད་བསམ་ཕྱོགས་དང་ཇི་མཐུན་སྲིད་སྐྱོང་ངམ་སྤྱི་མཐུས་འོས་མི་གོ་རིམ་བཞིན་ངོ་སྤྲོད་བྱུང་ཐུབ།
 
-
-
 Infographic here
 
 ## Submit your questions for the elections 2021
 
-[![Open form](<>)](https://docs.google.com/forms/d/1cO41xpWCg7u9R9VMn2P2FBLHjmeiJFPTnKrfBo157l0/edit)
+“This is a serious and timely initiative. When it comes to our exile democracy, we are continually growing and learning. _Smartvote_ is a brilliant tool and we hope Tibetans to make use of this technology”, 
+
+## [![Open form](<>)](https://docs.google.com/forms/d/1cO41xpWCg7u9R9VMn2P2FBLHjmeiJFPTnKrfBo157l0/edit)
 
 ## Newsletter
 
