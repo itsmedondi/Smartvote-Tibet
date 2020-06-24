@@ -24,6 +24,9 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
         <p>༢་ དེ་ནས་སྲིད་སྐྱོང་དང་སྤྱི་མཐུས་འོས་མི་རྣམས་ཀྱིས་དྲི་བ་ ༣༠ ལན་གདབ།</p>
         <p>༣་ བཀོལབདག་ (འོས་ཤོག་བླུགས་མཁན་) རྣམས་ཀྱིས་དྲ་ལྗོངས་འདིའི་ནང་དྲི་བ་དེ་དག་གཅིག་པར་ལན་གདབ།</p>
         <p>༤་ བཀོལ་བདག་རྣམས་ཀྱི་ཆབ་སྲིད་བསམ་ཕྱོགས་དང་ཇི་མཐུན་སྲིད་སྐྱོང་ངམ་སྤྱི་མཐུས་འོས་མི་གོ་རིམ་བཞིན་ངོ་སྤྲོད་བྱུང་ཐུབ།</p>
+        <p>
+        <img class="Content--Image" src="https://ucarecdn.com/45a1a58a-83f9-48d4-8d02-3a6640642776/-/progressive/yes/-/format/auto/-/resize/1000x/" srcset="https://ucarecdn.com/45a1a58a-83f9-48d4-8d02-3a6640642776/-/progressive/yes/-/format/auto/-/preview/320x320/-/quality/lightest/320.jpg 320w,https://ucarecdn.com/45a1a58a-83f9-48d4-8d02-3a6640642776/-/progressive/yes/-/format/auto/-/preview/450x450/-/quality/lightest/450.jpg 450w,https://ucarecdn.com/45a1a58a-83f9-48d4-8d02-3a6640642776/-/progressive/yes/-/format/auto/-/preview/640x640/-/quality/lightest/640.jpg 640w,https://ucarecdn.com/45a1a58a-83f9-48d4-8d02-3a6640642776/-/progressive/yes/-/format/auto/-/preview/750x750/-/quality/lightest/750.jpg 750w,https://ucarecdn.com/45a1a58a-83f9-48d4-8d02-3a6640642776/-/progressive/yes/-/format/auto/-/preview/800x800/-/quality/lightest/800.jpg 800w,https://ucarecdn.com/45a1a58a-83f9-48d4-8d02-3a6640642776/-/progressive/yes/-/format/auto/-/preview/900x900/-/quality/lightest/900.jpg 900w,https://ucarecdn.com/45a1a58a-83f9-48d4-8d02-3a6640642776/-/progressive/yes/-/format/auto/-/preview/1000x1000/-/quality/lightest/1000.jpg 1000w,https://ucarecdn.com/45a1a58a-83f9-48d4-8d02-3a6640642776/-/progressive/yes/-/format/auto/-/preview/1200x1200/-/quality/lightest/1200.jpg 1200w,https://ucarecdn.com/45a1a58a-83f9-48d4-8d02-3a6640642776/-/progressive/yes/-/format/auto/-/preview/1500x1500/-/quality/lightest/1500.jpg 1500w,https://ucarecdn.com/45a1a58a-83f9-48d4-8d02-3a6640642776/-/progressive/yes/-/format/auto/-/preview/1600x1600/-/quality/lightest/1600.jpg 1600w,https://ucarecdn.com/45a1a58a-83f9-48d4-8d02-3a6640642776/-/progressive/yes/-/format/auto/-/preview/2000x2000/-/quality/lightest/2000.jpg 2000w" sizes="100vw" title="" alt="" />
+        </p>        
         <h2>༢༠༢༡ ལོའི་འོས་བསྡུའི་ཆེད་དུ་དྲི་བ་ཐོ་བཀོད་གནང་རོགས།</h2>
         <p>“འདི་ནི་མཁོ་ཞིང་དུས་ལ་མཚམས་པའི་སྣེ་ཁྲིད་ཅིག་རེད་འདུག ངེད་ཚོའི་བཙན་བྱོལ་གྱི་དམངས་གཙོའི་ལམ་ལུགས་འདི་ནི་འཕེལ་བཞིན་པ་དང་ངེད་ཚོས་གསར་དུ་ཤེས་བཞིན་ཡོད་རེད། རྣམ་དཔྱོད་ལྡན་པའི་འོས་ནི་ཡོ་བྱད་ཁྱད་དུ་འཕགས་པ་ཞིག་རེད་འདུག་པས་བོད་མི་ཚོས་འཕྲུལ་ཆས་འདི་བེད་སྤྱོད་བཏང་བའི་རེ་བ་ཡོད།”</p>
         <h2><a target="_blank" class="Button" href="https://docs.google.com/forms/d/1cO41xpWCg7u9R9VMn2P2FBLHjmeiJFPTnKrfBo157l0/edit">འགེངས་ཤོག་ཁ་འབྱེད།</a></h2>
@@ -40,7 +43,7 @@ const HomePage = ({ data: { page } }) => (
   <Layout meta={page.frontmatter.meta || false}>
     <HomePageTemplate {...page} {...page.frontmatter} body={page.html} />
   </Layout>
-)
+) 
 
 export default HomePage
 

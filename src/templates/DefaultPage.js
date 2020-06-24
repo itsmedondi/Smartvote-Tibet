@@ -23,12 +23,14 @@ export const DefaultPageTemplate = ({
       <div className="container">
         <div class="Content "><h1>How does Smartvote Tibet work?</h1>
         <ol>
-        <li>Public participate in development of questions.</li>
-        <li>Candidates for Sikyong and Parliament answer selected 30 questions</li>
-        <li>Users (Voters) answer the same questions on the smartvote Tibet website.</li>
-        <li>Users receive a ranked list of candidates for Sikyong and Parliament that best match their political profile</li>
+        <li>Public participates in development of questions.</li>
+        <li>Candidates for Sikyong and Parliament answer selected 30 questions.</li>
+        <li>Users (voters) answer the same questions on the smartvote Tibet website.</li>
+        <li>Users receive a ranked list of candidates for Sikyong and Parliament that best match their political profile.</li>
         </ol>
-        <p>Infographic here</p>
+        <p>
+        <img class="Content--Image" src="https://ucarecdn.com/872d7cf5-2b2e-4c12-99b9-eba6be36e06d/-/progressive/yes/-/format/auto/-/resize/1000x/" srcset="https://ucarecdn.com/872d7cf5-2b2e-4c12-99b9-eba6be36e06d/-/progressive/yes/-/format/auto/-/preview/320x320/-/quality/lightest/320.jpg 320w,https://ucarecdn.com/872d7cf5-2b2e-4c12-99b9-eba6be36e06d/-/progressive/yes/-/format/auto/-/preview/450x450/-/quality/lightest/450.jpg 450w,https://ucarecdn.com/872d7cf5-2b2e-4c12-99b9-eba6be36e06d/-/progressive/yes/-/format/auto/-/preview/640x640/-/quality/lightest/640.jpg 640w,https://ucarecdn.com/872d7cf5-2b2e-4c12-99b9-eba6be36e06d/-/progressive/yes/-/format/auto/-/preview/750x750/-/quality/lightest/750.jpg 750w,https://ucarecdn.com/872d7cf5-2b2e-4c12-99b9-eba6be36e06d/-/progressive/yes/-/format/auto/-/preview/800x800/-/quality/lightest/800.jpg 800w,https://ucarecdn.com/872d7cf5-2b2e-4c12-99b9-eba6be36e06d/-/progressive/yes/-/format/auto/-/preview/900x900/-/quality/lightest/900.jpg 900w,https://ucarecdn.com/872d7cf5-2b2e-4c12-99b9-eba6be36e06d/-/progressive/yes/-/format/auto/-/preview/1000x1000/-/quality/lightest/1000.jpg 1000w,https://ucarecdn.com/872d7cf5-2b2e-4c12-99b9-eba6be36e06d/-/progressive/yes/-/format/auto/-/preview/1200x1200/-/quality/lightest/1200.jpg 1200w,https://ucarecdn.com/872d7cf5-2b2e-4c12-99b9-eba6be36e06d/-/progressive/yes/-/format/auto/-/preview/1500x1500/-/quality/lightest/1500.jpg 1500w,https://ucarecdn.com/872d7cf5-2b2e-4c12-99b9-eba6be36e06d/-/progressive/yes/-/format/auto/-/preview/1600x1600/-/quality/lightest/1600.jpg 1600w,https://ucarecdn.com/872d7cf5-2b2e-4c12-99b9-eba6be36e06d/-/progressive/yes/-/format/auto/-/preview/2000x2000/-/quality/lightest/2000.jpg 2000w" sizes="100vw" title="" alt="" />
+        </p>
         <h2>Submit your questions for the elections 2021</h2>
         <p>“This is a serious and timely initiative. When it comes to our exile democracy, we are continually growing and learning. <em>Smartvote</em> is a brilliant tool and we hope Tibetans to make use of this technology”</p>
         <h2><a class="Button" target="_blank" href="https://docs.google.com/forms/d/1cO41xpWCg7u9R9VMn2P2FBLHjmeiJFPTnKrfBo157l0/edit">Open form</a></h2>
