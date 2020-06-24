@@ -11,7 +11,7 @@ meta:
     Smartvote Tibet is an user-friendly application, helping the Tibetan voters
     to make an informed decision on election day.
   noindex: false
-  title: Smartvote Tibet | Submit your questions
+  title: Smartvote Tibet
 ---
 # རྣམ་དཔྱོད་ལྡན་པའི་བོད་མིའི་འོས་གང་འདྲ་སྒྲུབ་ཐུབ།
 
