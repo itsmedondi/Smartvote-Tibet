@@ -15,7 +15,7 @@ export const DefaultPageTemplate = ({
   <main className="DefaultPage">
     <PageHeader
       title={title}
-      subtitle={"Smartvote Tibet is an user-friendly application, helping the Tibetan voters to make an informed decision on election day."}
+      subtitle={"Smartvote Tibet is a user-friendly application, helping the Tibetan voters to make an informed decision on election day."}
       backgroundImage={featuredImage}
     />
 
